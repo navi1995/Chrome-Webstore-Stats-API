@@ -1,0 +1,16 @@
+{
+  "name": "chrome-webstore-stats-api",
+  "version": "1.0.0",
+  "description": "Endpoint for using chrome-webstore-stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Navi Jador",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-webstore-stats": "file:../Google Extension Stats",
+    "express": "^4.17.1"
+  }
+}
