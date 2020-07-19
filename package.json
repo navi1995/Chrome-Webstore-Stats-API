@@ -10,7 +10,8 @@
   "author": "Navi Jador",
   "license": "ISC",
   "dependencies": {
-    "chrome-webstore-stats": "file:../Google Extension Stats",
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "chrome-webstore-stats": "^0.2.2"
+  },
+  "homepage": "https://github.com/navi1995/Chrome-Webstore-Stats-API"
 }
