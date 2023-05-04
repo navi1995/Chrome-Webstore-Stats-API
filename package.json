@@ -1,6 +1,6 @@
 {
   "name": "chrome-webstore-stats-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Endpoint for using chrome-webstore-stats",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "chrome-webstore-stats": "^0.2.2"
+    "chrome-webstore-stats": "^1.0.7"
   },
   "homepage": "https://github.com/navi1995/Chrome-Webstore-Stats-API"
 }
